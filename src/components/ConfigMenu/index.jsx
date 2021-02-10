@@ -113,17 +113,10 @@ class ConfigMenu extends Component {
                         label: 'Google',
                         value: 'https://www.google.com/search?q=',
                       },
-                      { 
-					    label: 'Baidu', 
-					    value: 'https://www.baidu.com/s?wd=',
-					  },
-					  { 
-					    label: 'Doge', 
-					    value: 'https://www.dogedoge.com/results?q=',
-					  },
+                      { label: 'Baidu', value: 'https://www.baidu.com/s?wd=' },
                       {
-                        label: 'Bing',
-                        value: 'https://www.bing.com/search?q=',
+                        label: 'Doge',
+                        value: 'https://www.dogedoge.com/results?q=',
                       },
                     ]}
                     value={engineOption}
@@ -139,7 +132,7 @@ class ConfigMenu extends Component {
                     options={[
                       { label: '霞骛文楷', value: 'LXGWWenKai' },
                       { label: '齐伋体', value: 'qiji' },
-					  { label: '细金陵', value: 'FZXiJinLJW' },
+                      { label: '细金陵', value: 'FZXiJinLJW' },
                       { label: '冰宇雅宋', value: 'ZHBingYuYaSong' },
                       { label: '大明宋', value: 'ZHDaMingSong' },
                     ]}

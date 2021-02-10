@@ -24,7 +24,7 @@ import './styles/app.scss';
 
 const DEFAULT_SHICI_LIST = require('./constants/shici.json');
 
-const youzikuClient = new youziku.youzikuClient('xxxxxx'); //apikey
+const youzikuClient = new youziku.youzikuClient('xxxxxx'); // eslint-disable-line no-unused-vars
 
 class App extends Component {
   constructor(props) {
