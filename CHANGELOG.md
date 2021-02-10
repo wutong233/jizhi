@@ -1,6 +1,6 @@
 # 更新日志
 
-此文件包含几枝的所有版本更新内容。部分格式和想法参考了 [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)。
+此日志仅包含几枝的所有版本更新内容，不包含修改内容的变更。部分格式和想法参考了 [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)。
 
 ## [2.3.0]
 

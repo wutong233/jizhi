@@ -26,6 +26,5 @@ const generateConfig = (config, browser) => {
 };
 
 const chromeConfig = generateConfig(basicConfig, 'chrome');
-const ffConfig = generateConfig(basicConfig, 'firefox');
 
-module.exports = [chromeConfig, ffConfig];
+module.exports = [chromeConfig];
