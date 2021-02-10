@@ -130,7 +130,7 @@ class ConfigMenu extends Component {
                   <SegmentedControl
                     width={300}
                     options={[
-                      { label: '霞骛文楷', value: 'LXGWWenKai' },
+                      { label: '霞骛文楷', value: 'LXGW WenKai' },
                       { label: '齐伋体', value: 'qiji' },
                       { label: '细金陵', value: 'FZXiJinLJW' },
                       { label: '冰宇雅宋', value: 'ZHBingYuYaSong' },

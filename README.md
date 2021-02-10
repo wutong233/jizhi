@@ -41,24 +41,22 @@ A Chrome extension with custom new tab page featuring Chinese poems and P5.js en
 > - 点击右上角 **加载解压缩的扩展** 按钮并选取解压得到的 **文件夹** 
 > - 「几枝-M」装载成功，打开新标签页试试吧
 
-![jizhi-2.1.0 gif](https://github.com/unicar9/jizhi/blob/master/examples/jizhi-2.1.0.gif)
-![jizhi gif](https://github.com/unicar9/jizhi/blob/master/examples/jizhi.gif)
-
 ## 开发 ##
 
-克隆文件 `git clone`
+克隆 `git clone`
 
 运行 `yarn` 
 
 运行 `yarn build` 
 
-生成 **builds** 文件夹(仅包含 Chrome 的 build 文件以及压缩包,切记：应使用 LF 而不是 CRLF)**
+生成 **builds** 文件夹(仅包含 Chrome 的 build 文件以及压缩包)
+
+#### 切记：应使用 **LF** 而不是 **CRLF** ####
 
 ## 示例
 
 ![jizhi bg 1](https://github.com/unicar9/jizhi/blob/master/examples/jizhi-bg-1.jpg)
-![jizhi bg 2](https://github.com/unicar9/jizhi/blob/master/examples/jizhi-bg-2.jpg)
-![jizhi bg 3](https://github.com/unicar9/jizhi/blob/master/examples/jizhi-bg-3.jpg)
+![jizhi gif](jizhi.gif)
 
 ## 鸣谢
 

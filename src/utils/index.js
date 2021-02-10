@@ -6,7 +6,7 @@ function filter(node) {
 
 export const saveBackground = () => {
   const node = document.getElementById('root');
-  const githubLink = 'https://github.com/unicar9/jizhi/issues';
+  const githubLink = 'https://github.com/wutong233/jizhi-m/issues';
   domtoimage
     .toPng(node, { filter })
     .then((dataUrl) => {
