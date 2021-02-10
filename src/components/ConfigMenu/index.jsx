@@ -113,7 +113,14 @@ class ConfigMenu extends Component {
                         label: 'Google',
                         value: 'https://www.google.com/search?q=',
                       },
-                      { label: 'Baidu', value: 'https://www.baidu.com/s?wd=' },
+                      { 
+					    label: 'Baidu', 
+					    value: 'https://www.baidu.com/s?wd=',
+					  },
+					  { 
+					    label: 'Doge', 
+					    value: 'https://www.dogedoge.com/results?q=',
+					  },
                       {
                         label: 'Bing',
                         value: 'https://www.bing.com/search?q=',
@@ -130,8 +137,9 @@ class ConfigMenu extends Component {
                   <SegmentedControl
                     width={300}
                     options={[
-                      { label: '细金陵', value: 'FZXiJinLJW' },
+                      { label: '霞骛文楷', value: 'LXGWWenKai' },
                       { label: '齐伋体', value: 'qiji' },
+					  { label: '细金陵', value: 'FZXiJinLJW' },
                       { label: '冰宇雅宋', value: 'ZHBingYuYaSong' },
                       { label: '大明宋', value: 'ZHDaMingSong' },
                     ]}

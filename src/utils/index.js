@@ -28,10 +28,15 @@ export const saveBackground = () => {
     ？  \uff1f
     ！  \uff01
 */
+
+/*
+
 export const pureWords = (sentense = '') => {
   const regex = /[\u3002|\uff0c|\u3001|\uff1f|\uff01]/gi;
   return sentense.replace(regex, ' ');
 };
+
+*/
 
 export const insertFont = (fontName, value) => {
   console.log('Inserting font', value);

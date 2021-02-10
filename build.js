@@ -63,4 +63,3 @@ const getArchive = (browser) => {
 };
 
 getArchive('chrome');
-getArchive('firefox');

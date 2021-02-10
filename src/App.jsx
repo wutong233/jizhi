@@ -41,7 +41,7 @@ class App extends Component {
       engineOption: GOOGLE_SEARCH,
       value: '',
       focused: false,
-      fontName: 'FZXiJinLJW',
+      fontName: 'LXGWWenKai',
     };
   }
 
@@ -80,7 +80,7 @@ class App extends Component {
           verses: res.verses || DEFAULT_SHICI,
           selected: res.selected || WAVES,
           engineOption: res.engineOption || GOOGLE_SEARCH,
-          fontName: res.fontName || 'FZXiJinLJW',
+          fontName: res.fontName || 'LXGWWenKai',
         });
       }
     );

@@ -1,10 +1,10 @@
 export const GOOGLE_SEARCH = 'https://www.google.com/search?q=';
 
 export const DEFAULT_SHICI = {
-  content: '红豆生南国，春来发几枝。',
+  content: '此句为示例，现于初见时。',
   origin: {
-    author: '王维',
-    title: '相思',
+    author: '我',
+    title: '请坐和放宽(请刷新!)',
   },
 };
 
