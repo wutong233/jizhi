@@ -11,10 +11,6 @@ const browsers = {
     name: 'chrome',
     labelColor: 'magenta',
   },
-  firefox: {
-    name: 'firefox',
-    labelColor: 'yellow',
-  },
 };
 
 const getArchive = (browser) => {

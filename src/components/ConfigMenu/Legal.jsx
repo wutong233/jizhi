@@ -10,15 +10,13 @@ const Legal = () => (
       </a>
       ，感谢您的支持和喜爱!
     </Text>
+    <Text margin={20} lineHeight="50px" color="muted">
+      如字体未正常显示,请下载
+      <a href="http://font.zeromoe.ml/" target="_blank" rel="noopener noreferrer">
+        霞骛文楷
+      </a>
+      ，或方正细金陵简宋!
+    </Text>
   </div>
-  <div style={{ height: 50 }}>
-  <Text margin={20} lineHeight="50px" color="muted">
-    如字体未正常显示,请下载
-    <a href="https://gitee.com/heliumw/jizhi-m/raw/master/src/fonts/LXGWWenKai.ttf" target="_blank" rel="noopener noreferrer">
-      霞骛文楷
-    </a>
-    ，或方正细金陵简宋!
-  </Text>
-</div>
 );
 export default Legal;
