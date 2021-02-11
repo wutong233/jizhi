@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
-支持自定义新标签页的 Chrome 扩展，几枝将在新标签页上展示中国传统色的层叠波浪动画效果搭配经典诗词。这是一个很稚嫩的修改版本,建议使用[原版](https://github.com/unicar9/jizhi/)获得最佳体验.
+支持自定义新标签页的 Chrome 扩展，几枝将在新标签页上展示中国传统色的层叠波浪动画效果搭配经典诗词。**这是一个很稚嫩的修改版本,建议使用[原版](https://github.com/unicar9/jizhi/)获得最佳体验.**
 
 A Chrome extension with custom new tab page featuring Chinese poems and P5.js enabled noise waves in traditional Chinese colors
 
